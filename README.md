@@ -4,7 +4,7 @@ I am a junior data analyst, I have changed my career as an engineer for the exci
 
 Skills
 
-![image](https://github.com/Bautistao2/Bautistao2/assets/127142276/ffd039de-7cf4-406b-a5a8-654f5362b735)
+Python, Pandas, Matplotlib, Seaborn, Sklearn, Pycaret, Power Bi, Streamlit. 
 
 
 
