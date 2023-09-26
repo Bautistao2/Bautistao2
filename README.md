@@ -4,5 +4,6 @@ I am a junior data analyst, I have changed my career as an engineer for the exci
 
 Skills
 
-https://img.shields.io/badge/python-power bi-blue
+https://img.shields.io/badge/python-powerbi-blue
+
 
