@@ -1,10 +1,18 @@
 ### Hi everone, my name is Osthailyd!!!
 
-I am a junior data analyst, I have changed my career as an engineer for the exciting world of data, collecting, cleaning, analyzing and creating applications to improve decision making that benefits companies, I studied master's degree in human resources and I use my knowledge to leverage myself in data processing to optimize people in the processes.
+Detail-oriented data scientist  with a strong academic background in data analysis. Proficient in Python , data manipulation, and machine learning. Committed to applying data-driven insights to solve business challenges.
 
 Skills
 
-Python, Pandas, Matplotlib, Seaborn, Sklearn, Pycaret, Power Bi, Streamlit, SQL 
-
+-Microsoft Excel
+-Power BI
+-Python
+-Data cleaning
+-Exploratory Dara Analysis
+-Data visualization (Seaborn, Plotly,)
+-Machine Learning concepts ( Regression, Classification)
+-SQL
+-Git
+-Streamlit
 
 
