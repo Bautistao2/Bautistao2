@@ -8,9 +8,9 @@ Skills
 -Power BI
 -Python
 -Data cleaning
--Exploratory Dara Analysis
--Data visualization (Seaborn, Plotly,)
--Machine Learning concepts ( Regression, Classification)
+-Exploratory Data Analysis
+-Data visualization 
+-Machine Learning concepts 
 -SQL
 -Git
 -Streamlit
