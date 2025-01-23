@@ -1,4 +1,4 @@
-### Hi everone, my name is Osthailyd!!!
+### Hi everone, my name is Ilyd!!!
 
 Detail-oriented data scientist  with a strong academic background in data analysis. Proficient in Python , data manipulation, and machine learning. Committed to applying data-driven insights to solve business challenges.
 
